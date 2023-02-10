@@ -18,7 +18,7 @@
 
 ## [🍀植物]
 
-### [花](./resource/animal/flower/flower.md)
+### [花](./resource/plant/flower/flower.md)
 
 ## [⚒️其他]
 
