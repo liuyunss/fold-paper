@@ -34,3 +34,7 @@
 ### [`折纸建筑合集`](./resource/collection/折纸建筑/zz07.md)
 
 ### [`NICOLAS TERRY PRESENTS 出品`](./resource/collection/NICOLAS%20TERRY%20PRESENTS/zz08.md)
+
+
+## 版权声明
+- 本项目尊重各网络文件的版权问题，所有资源均出自网络，所有提供下载的资源均为资源作者提供和网络收集整理而来，仅供学习和研究使用。访问本项目的用户必须明白，本项目对提供下载的资源等不拥有任何权利，其版权归该资源的合法拥有者所有。
